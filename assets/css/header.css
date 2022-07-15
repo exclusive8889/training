@@ -38,7 +38,10 @@ li{
     display: flex;
     flex: 1;
     margin: 0;
-
+    align-items: center;
+}
+.wheaderTop-logo img{
+    margin-right:15px ;
 }
 .wheaderTop-btn{
     display: flex;
@@ -106,7 +109,7 @@ li{
 /*  */
 .arrow{
     font-size: 1.5rem;
-
+    cursor: pointer;
     color: #fff;
 }
 .arrow-left{
